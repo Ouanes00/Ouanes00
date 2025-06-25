@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="40%">
-<img src="https://assets.grok.com/users/db94d17b-97d2-4e4d-b685-8a406e896e7f/generated/c06ba611-e93d-4981-b8d2-18d8ea705ce8/image.jpg" width="100%" style="border-radius: 20px;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 20px;"/>
 </td>
 <td width="60%">
 
@@ -64,22 +64,22 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://assets.grok.com/users/db94d17b-97d2-4e4d-b685-8a406e896e7f/generated/02c7b85d-3378-4738-af71-d38c52df4627/image.jpg" width="120" style="border-radius: 50%;"/><br>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" style="border-radius: 50%;"/><br>
 <br>**🎨 Design Perfectionist**<br>
 <sub><i>Every interface tells a story</i></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://assets.grok.com/users/db94d17b-97d2-4e4d-b685-8a406e896e7f/generated/1fc88e3a-2e21-48e3-be70-22129298b1d3/image.jpg" width="120" style="border-radius: 50%;"/><br>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="120" style="border-radius: 50%;"/><br>
 <br>**💻 Code Architect**<br>
 <sub><i>Clean, scalable, beautiful</i></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://assets.grok.com/users/db94d17b-97d2-4e4d-b685-8a406e896e7f/generated/a047c31a-2c65-4b97-b573-38252113c121/image.jpg" width="120" style="border-radius: 50%;"/><br>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" style="border-radius: 50%;"/><br>
 <br>**🔒 Security Guardian**<br>
 <sub><i>Protecting digital worlds</i></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" width="120" style="border-radius: 50%;"/><br>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" style="border-radius: 50%;"/><br>
 <br>**🎯 Innovation Driver**<br>
 <sub><i>Pushing boundaries daily</i></sub>
 </td>
@@ -100,7 +100,7 @@
 <table>
 <tr>
 <td width="35%">
-<img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
 </td>
 <td width="65%">
 
@@ -146,17 +146,17 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" width="150" style="border-radius: 20px;"/><br>
+<img src="https://media.giphy.com/media/SvQzkTQb5UcfMaSkPo/giphy.gif" width="150" style="border-radius: 20px;"/><br>
 <br>**🎮 Gaming Strategist**<br>
 <sub><i>Reflexes sharp, mind sharper</i></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" width="150" style="border-radius: 20px;"/><br>
+<img src="https://media.giphy.com/media/ZgqJGwh2tLj5C/giphy.gif" width="150" style="border-radius: 20px;"/><br>
 <br>**💪 Fitness Enthusiast**<br>
 <sub><i>Strong body, stronger code</i></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-4.0.3&auto=format&fit=crop&w=300&q=80" width="150" style="border-radius: 20px;"/><br>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="150" style="border-radius: 20px;"/><br>
 <br>**📚 Eternal Learner**<br>
 <sub><i>Knowledge is infinite</i></sub>
 </td>
