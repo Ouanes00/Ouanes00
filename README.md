@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="40%">
-<img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100%" style="border-radius: 20px;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 20px;"/>
 </td>
 <td width="60%">
 
@@ -64,22 +64,22 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="120" style="border-radius: 50%;"/><br>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" style="border-radius: 50%;"/><br>
 <br>**🎨 Design Perfectionist**<br>
 <sub><i>Every interface tells a story</i></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" style="border-radius: 50%;"/><br>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="120" style="border-radius: 50%;"/><br>
 <br>**💻 Code Architect**<br>
 <sub><i>Clean, scalable, beautiful</i></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="120" style="border-radius: 50%;"/><br>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" style="border-radius: 50%;"/><br>
 <br>**🔒 Security Guardian**<br>
 <sub><i>Protecting digital worlds</i></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/3oKIlHzgJ5BPYaGGk8/giphy.gif" width="120" style="border-radius: 50%;"/><br>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" style="border-radius: 50%;"/><br>
 <br>**🎯 Innovation Driver**<br>
 <sub><i>Pushing boundaries daily</i></sub>
 </td>
@@ -100,7 +100,7 @@
 <table>
 <tr>
 <td width="35%">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
 </td>
 <td width="65%">
 
@@ -146,17 +146,17 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/ZgqJGwh2tLj5C/giphy.gif" width="150" style="border-radius: 20px;"/><br>
+<img src="https://media.giphy.com/media/SvQzkTQb5UcfMaSkPo/giphy.gif" width="150" style="border-radius: 20px;"/><br>
 <br>**🎮 Gaming Strategist**<br>
 <sub><i>Reflexes sharp, mind sharper</i></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="150" style="border-radius: 20px;"/><br>
+<img src="https://media.giphy.com/media/ZgqJGwh2tLj5C/giphy.gif" width="150" style="border-radius: 20px;"/><br>
 <br>**💪 Fitness Enthusiast**<br>
 <sub><i>Strong body, stronger code</i></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150" style="border-radius: 20px;"/><br>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="150" style="border-radius: 20px;"/><br>
 <br>**📚 Eternal Learner**<br>
 <sub><i>Knowledge is infinite</i></sub>
 </td>
