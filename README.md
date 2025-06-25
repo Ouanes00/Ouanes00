@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ouanes%20Mohamed&fontSize=50&fontAlignY=35&desc=UI/UX%20Designer%20•%20Full%20Stack%20Developer%20•%20Network%20Analyst&descAlignY=60&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ouanes&fontSize=60&fontAlignY=35&desc=UI/UX%20Designer%20•%20Full%20Stack%20Developer%20•%20Network%20Analyst&descAlignY=60&animation=twinkling"/>
 
 </div>
 
