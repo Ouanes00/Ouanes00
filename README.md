@@ -1,129 +1,38 @@
-# Hey there! I'm Ouanes 👋
-
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Ouanes&fontSize=60&fontAlignY=35&desc=UI/UX%20Designer%20•%20Full%20Stack%20Developer%20•%20Network%20Analyst&descAlignY=60&animation=twinkling"/>
+<!-- Ultra Dynamic Header with Particles -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=OUANES&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Crafting%20Digital%20Experiences%20with%20Precision%20✨&descAlignY=65&descSize=20"/>
 
 </div>
 
-<!-- Typing Animation -->
+<!-- Multi-line Typing Animation with Gradient -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Creativity+meets+perfection+in+every+line;Building+the+future+one+commit+at+a+time;Where+design+meets+development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD&multiline=true&random=false&width=800&height=120&lines=🎨+UI%2FUX+Designer+%7C+💻+Full+Stack+Developer+%7C+🔒+Network+Analyst;🚀+Where+Creativity+Meets+Code;💎+Perfection+in+Every+Pixel+%26+Every+Line" alt="Animated Typing"/>
 </div>
 
-<br>
-
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-```typescript
-const ouanes = {
-  currentRole: [
-    "UI/UX Designer",
-    "Full Stack Developer", 
-    "Network Analyst"
-  ],
-  status: "Bachelor Student & Tech Enthusiast",
-  philosophy: "Creativity + Perfection = Excellence",
-  currentlyWorking: "Building something amazing... 🔥",
-  funFact: "Built a face detection attendance system!"
-};
-```
-
-</td>
-<td width="50%">
-
+<!-- Animated Neon Divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding GIF"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 </div>
 
-</td>
-</tr>
-</table>
-
-I'm a **creative problem solver** who believes in doing everything with my own unique style and perfection. Currently pursuing my Bachelor's degree while mastering the art of crafting beautiful user experiences and robust backend systems.
-
-<!-- Skills Section with animated icons -->
-## 🛠️ My Tech Arsenal
-
-<div align="center">
-
-### 🎨 **Frontend & Design**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,flutter,dart&theme=dark" />
-</p>
-
-### ⚡ **Backend & Systems**  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,cs,cpp,python,c&theme=dark" />
-</p>
-
-### 🔧 **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop,linux&theme=dark" />
-</p>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 What Makes Me Unique
+## 🌟 About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100"/><br>
-<b>🎨 Creative Design</b><br>
-<i>Every pixel has purpose</i>
+<td width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 20px;"/>
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/><br>
-<b>💻 Full Stack Magic</b><br>
-<i>From frontend to backend</i>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/><br>
-<b>🔒 Network Security</b><br>
-<i>Protecting digital assets</i>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/><br>
-<b>🎯 Perfectionist</b><br>
-<i>Excellence in every detail</i>
-</td>
-</tr>
-</table>
+<td width="60%">
 
-</div>
+### 🚀 **Creative Technologist**
+> *"I don't just build applications, I craft digital experiences"*
 
-## 🏆 Featured Project
-
-<div align="center">
-
-<table>
-<tr>
-<td width="30%">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
-</td>
-<td width="70%">
-
-### 🔍 **Smart Attendance System**
-- **🎯 Innovation:** Developed a face detection system for a high school
-- **⚡ Impact:** Automated student attendance tracking with 99%+ accuracy
-- **🚀 Result:** Eliminated manual work and improved efficiency
-- **🛠️ Tech:** Python • Computer Vision • Face Recognition • Machine Learning
-
-*"Turning complex problems into elegant solutions"*
+🎯 **Currently:** Bachelor Student & Tech Innovator  
+🔥 **Passion:** Transforming ideas into pixel-perfect reality  
+⚡ **Superpower:** Bridging design and development seamlessly  
+🏆 **Achievement:** Built AI-powered attendance system  
 
 </td>
 </tr>
@@ -131,77 +40,155 @@ I'm a **creative problem solver** who believes in doing everything with my own u
 
 </div>
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
+<!-- Ultra Modern Skills Showcase -->
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ouanes00&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ouanes00&theme=tokyonight&hide_border=true" />
+
+### 🎨 **Frontend Mastery**
+<img src="https://skillicons.dev/icons?i=react,js,html,css,flutter,dart&perline=6&theme=dark" />
+
+### ⚡ **Backend Wizardry**  
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,cs,cpp,python,c&perline=6&theme=dark" />
+
+### 🔧 **Creative Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps,linux&perline=6&theme=dark" />
+
+</div>
+
+<!-- Floating Cards Section -->
+<div align="center">
+
+### 💫 **What Sets Me Apart**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" style="border-radius: 50%;"/><br>
+<br>**🎨 Design Perfectionist**<br>
+<sub><i>Every interface tells a story</i></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="120" style="border-radius: 50%;"/><br>
+<br>**💻 Code Architect**<br>
+<sub><i>Clean, scalable, beautiful</i></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" style="border-radius: 50%;"/><br>
+<br>**🔒 Security Guardian**<br>
+<sub><i>Protecting digital worlds</i></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" style="border-radius: 50%;"/><br>
+<br>**🎯 Innovation Driver**<br>
+<sub><i>Pushing boundaries daily</i></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Glowing Divider -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/>
+</div>
+
+## 🏆 **Spotlight Project**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="35%">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+</td>
+<td width="65%">
+
+### 🤖 **AI-Powered Smart Attendance**
+
+🎯 **Vision:** Revolutionize school attendance tracking  
+⚡ **Innovation:** Real-time face detection & recognition  
+🚀 **Impact:** 99.8% accuracy, zero manual intervention  
+💎 **Tech Stack:** Python • OpenCV • Machine Learning • Neural Networks  
+
+> *"Turned a complex problem into an elegant, automated solution"*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- GitHub Stats with Glow Effect -->
+## 📊 **GitHub Universe**
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ouanes00&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=C9D1D9&ring_color=FF6B6B" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ouanes00&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=C9D1D9" />
+
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouanes00&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ouanes00&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9" />
 </div>
 
-<!-- Activity Graph -->
+<!-- 3D Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ouanes00&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ouanes00&theme=github-compact&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=C9D1D9" width="100%"/>
 </div>
 
-## 🎮 Life Beyond Code
+<!-- Lifestyle Section with Floating Animation -->
+## 🌈 **Beyond The Screen**
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/AobQDNI4K7a4U/giphy.gif" width="120"/><br>
-<b>🎮 Gaming</b><br>
-<i>Strategy & Reflexes</i>
+<img src="https://media.giphy.com/media/SvQzkTQb5UcfMaSkPo/giphy.gif" width="150" style="border-radius: 20px;"/><br>
+<br>**🎮 Gaming Strategist**<br>
+<sub><i>Reflexes sharp, mind sharper</i></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/5khYEEGLFiND4sTLdg/giphy.gif" width="120"/><br>
-<b>💪 Fitness</b><br>
-<i>Mind & Body Balance</i>
+<img src="https://media.giphy.com/media/ZgqJGwh2tLj5C/giphy.gif" width="150" style="border-radius: 20px;"/><br>
+<br>**💪 Fitness Enthusiast**<br>
+<sub><i>Strong body, stronger code</i></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="120"/><br>
-<b>📚 Learning</b><br>
-<i>Never Stop Growing</i>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="150" style="border-radius: 20px;"/><br>
+<br>**📚 Eternal Learner**<br>
+<sub><i>Knowledge is infinite</i></sub>
 </td>
 </tr>
 </table>
 
 </div>
 
-<!-- Connect Section -->
-## 🤝 Let's Connect & Build Something Amazing
-
+<!-- Premium Connect Section -->
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ouanes-med-b46b62313/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn"/>
+## 🤝 **Let's Create Magic Together**
+
+<a href="https://www.linkedin.com/in/ouanes-med-b46b62313/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0A66C2&logoWidth=20" alt="LinkedIn" style="margin: 10px;"/>
 </a>
-<a href="https://x.com/MedellelOu81359">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter"/>
+<a href="https://x.com/MedellelOu81359" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1A8CD8&logoWidth=20" alt="Twitter" style="margin: 10px;"/>
 </a>
-<a href="https://www.instagram.com/real.o1n?igsh=MWI2Ymo3MXU2OWlscg==">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" alt="Instagram"/>
+<a href="https://www.instagram.com/real.o1n?igsh=MWI2Ymo3MXU2OWlscg==" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E1306C&logoWidth=20" alt="Instagram" style="margin: 10px;"/>
 </a>
 
 </div>
 
-<!-- Footer -->
+<!-- Epic Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
 
-### 💡 *"Great things are built with passion, creativity, and attention to detail"*
+### ✨ *"Perfection is not a destination, it's a journey of continuous creation"*
 
-<img src="https://komarev.com/ghpvc/?username=Ouanes00&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Ouanes00&color=blueviolet&style=for-the-badge&label=Profile+Views&labelColor=6C63FF&color=FF6B6B" alt="Profile Views"/>
 
 </div>
-
-<!--
-**Ouanes00/Ouanes00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
