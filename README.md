@@ -64,7 +64,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" style="border-radius: 50%;"/><br>
+<img src="https://media3.giphy.com/media/v1.2lkPTc5MGI3NjExOHhkYnVjcHp6OWE1MW0zMWo0bXE2ZWNuOTZkZjh3MzFobWUzcDdvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MvovQGsMBY9H2/giphy.gif" width="120" style="border-radius: 50%;"/><br>
 <br>**🎨 Design Perfectionist**<br>
 <sub><i>Every interface tells a story</i></sub>
 </td>
@@ -74,7 +74,7 @@
 <sub><i>Clean, scalable, beautiful</i></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" style="border-radius: 50%;"/><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNkemIyczVrcGtjeGhoc3YxNHAxcnNyOGM1ZmxhY2p4MXllcjM0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/077i6AULCXc0FKTj9s/giphy.gif" width="120" style="border-radius: 50%;"/><br>
 <br>**🔒 Security Guardian**<br>
 <sub><i>Protecting digital worlds</i></sub>
 </td>
@@ -146,12 +146,12 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/SvQzkTQb5UcfMaSkPo/giphy.gif" width="150" style="border-radius: 20px;"/><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTMzbWJsMm5mMHY2dm9iMzUwN3V5OG1rcTgyeXFmMmZxdzJqM3N4MCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lqds6GFBYlHPSFqj9r/giphy.gif" width="150" style="border-radius: 20px;"/><br>
 <br>**🎮 Gaming Strategist**<br>
 <sub><i>Reflexes sharp, mind sharper</i></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/ZgqJGwh2tLj5C/giphy.gif" width="150" style="border-radius: 20px;"/><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZnpkdnhrNWF5dDIyZXp2aDBvOGhvd3Q4eDI2M3c2azV4aDRwY2h4MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/idlERgmt6WgDui9Lbm/giphy.gif" width="150" style="border-radius: 20px;"/><br>
 <br>**💪 Fitness Enthusiast**<br>
 <sub><i>Strong body, stronger code</i></sub>
 </td>
@@ -164,7 +164,6 @@
 </table>
 
 </div>
-
 <!-- Premium Connect Section -->
 <div align="center">
 
